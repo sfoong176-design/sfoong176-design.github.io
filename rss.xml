@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>sfoong176-design</title>
+    <link>https://sfoong176-design.github.io/</link>
+    <description>GitHub Pages RSS Feed</description>
+
+    <item>
+      <title>홈페이지</title>
+      <link>https://sfoong176-design.github.io/</link>
+      <description>메인 페이지</description>
+      <pubDate>Sun, 26 Jul 2026 00:00:00 GMT</pubDate>
+    </item>
+
+  </channel>
+</rss>
