@@ -1,0 +1,386 @@
+        .sticky-kakao { background-color: #fee500; color: #191919; }
+        
+        footer { text-align: center; padding: 40px 20px; color: #718096; font-size: 0.95rem; background-color: #fff; border-top: 1px solid #edf2f7; }
+    </style>
+</head>
+<body>
+    
+    <header>
+        <div class="badge"><i class="fa-solid fa-bolt"></i> 24시 긴급 출동 야간·새벽 대기</div>
+        <h1>하수구 배관 막힘 뻥 뚫는 업체</h1>
+        <p>꽉 막힌 하수도, 배수구 역류, 싱크대 뚫음 완벽 마스터</p>
+    </header>
+    
+    <main class="container">
+        
+        <div class="top-guide-banner">
+            <img src="https://images.unsplash.com/photo-1504307651254-35680f356dfd?auto=format&fit=crop&w=1000&q=80"alt="설비 마스터 작업 전경"class="bg-img">
+            <div class="content-inner">
+                <div class="banner-title-box">
+                    <h3>배관 설비 기술 마스터 센터</h3>
+                    <p>못 뚫으면 0원! 정직한 양심 정찰제 시공</p>
+                </div>
+                <div class="work-tags-container">
+                    <div class="work-tag-row">
+                        <i class="fa-solid fa-soap"></i>
+                        <div class="tag-text">
+                            <strong>하수구 막힘 뚫음</strong>
+                            <span>싱크대 역류 · 화장실 배수구 · 유지방 스케일링</span>
+                        </div>
+                    </div>
+                    <div class="work-tag-row">
+                        <i class="fa-solid fa-droplet-slash"></i>
+                        <div class="tag-text">
+                            <strong>첨단 정밀 누수탐지</strong>
+                            <span>미세 누수 진단 · 첨단 청음 탐지 · 배관 교체 공사</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="banner-footer-box">
+                    <a href="tel:01057857001"class="emergency-badge">
+                        <i class="fa-solid fa-phone-volume"></i> 24시 긴급 출동 즉시 연결
+                    </a>
+                </div>
+            </div>
+        </div>
+     
+        <article class="card">
+            <h2><i class="fa-solid fa-screwdriver-wrench"></i> 하수구 배수구 싱크대 막힘 원인과 확실한 해결책</h2>
+            <div class="description-text">
+                <p>안녕하세요! <b>하수구</b> 관련하여 발생하는 골치 아픈 배관 트러블을 속 시원하게 해결해 드리는 **하수구 배관 막힘 뻥 뚫는 업체** ‘뻥뚫어 마스터’입니다. 싱크대 역류나 화장실 배수구 물 넘침은 누수로 이어지기 쉬워 빠른 대처가 필수적입니다.</p>
+                <p>하수구 현장에서 가장 빈번히 경험하시는 싱크대 막힘의 주원인은 유지방 슬러지입니다. 주방 배수구를 통해 내려간 기름 성분들이 배관 내부에서 응고되면서 딱딱한 기름 덩어리를 생성하게 되고, 음식물 찌꺼기가 결착되면서 통수를 가로막게 됩니다.</p>
+                
+                <div class="info-feature-box">
+                    <ul>
+                        <li><i class="fa-solid fa-check"></i> 하수도 메인관 고압세척</li>
+                        <li><i class="fa-solid fa-check"></i> 배수구 역류 청소</li>
+                        <li><i class="fa-solid fa-check"></i> 싱크대 유지방 스케일링</li>
+                        <li><i class="fa-solid fa-check"></i> 24시 긴급 야간 출동</li>
+                    </ul>
+                </div>
+    
+                <p>저희 **하수구 배관 막힘 뻥 뚫는 업체**는 초고화질 배관 내시경 카메라를 진입시켜 원인 구간을 정밀하게 탐지합니다. 초강력 플렉스 샤프트 및 하수도 고압세척 공법을 적용하여 문제를 근본적으로 해결합니다.</p>
+            </div>
+        </article>
+
+        <!-- 📸 [요청하신 이미지를 녹여 만든 실제 작업 현장 모듈 섹션] -->
+        <section class="card">
+            <h2><i class="fa-solid fa-camera-retro"></i> 전문 장비 기반 현장 통수 작업 갤러리</h2>
+            <div class="gallery-grid">
+                <div class="gallery-item">
+                    <img src="https://images.unsplash.com/photo-1585704032915-c3400ca199e7?auto=format&fit=crop&w=600&q=80"alt="막힌 하수구 완벽 해결">
+                    <div class="gallery-caption">
+                        <h4>막힌 하수구 완벽 해결!</h4>
+                        <p>010-5785-7001</p>
+                    </div>
+                </div>
+                <div class="gallery-item">
+                    <img src="https://images.unsplash.com/photo-1621905251189-08b45d6a269e?auto=format&fit=crop&w=600&q=80"alt="하수구 막힘 설비 전문">
+                    <div class="gallery-caption">
+                        <h4>하수구 막힘 설비 전문</h4>
+                        <p>010-5785-7001</p>
+                    </div>
+                </div>
+                <div class="gallery-item">
+                    <img src="https://images.unsplash.com/photo-1504307651254-35680f356dfd?auto=format&fit=crop&w=600&q=80"alt="내시경 카메라 검사">
+                    <div class="gallery-caption">
+                        <h4>내시경 카메라 검사</h4>
+                        <p>010-5785-7001</p>
+                    </div>
+                </div>
+                <div class="gallery-item">
+                    <img src="https://images.unsplash.com/photo-1542013936693-884638332954?auto=format&fit=crop&w=600&q=80"alt="강력 고압 세척 서비스">
+                    <div class="gallery-caption">
+                        <h4>강력 고압 세척 서비스</h4>
+                        <p>010-5785-7001</p>
+                    </div>
+                </div>
+                <div class="gallery-item">
+                    <img src="https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80"alt="확실한 문제 해결 완료">
+                    <div class="gallery-caption">
+                        <h4>확실한 문제 해결 완료!</h4>
+                        <p>010-5785-7001</p>
+                    </div>
+                </div>
+                <div class="gallery-item">
+                    <img src="https://images.unsplash.com/photo-1517646287270-a5a9ca602e5c?auto=format&fit=crop&w=600&q=80"alt="24시간 출동 하수구 막힘 문의">
+                    <div class="gallery-caption">
+                        <h4>24시간 출동! 하수구 막힘 문의</h4>
+                        <p>010-5785-7001</p>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="hashtag-container">
+                <span>#하수구배관막힘</span><span>#하수구막힘</span><span>#하수구배수구뚫음</span><span>#하수구싱크대막힘</span><span>#하수구24시출동</span>
+            </div>
+        </section>
+     
+        <!-- 네이버 지도 섹션 (정적 링크 연결) -->
+        <section class="card">
+            <h2><i class="fa-solid fa-map-location-dot"></i> 24시 하수구 네이버 지도 출동 서비스</h2>
+            <div class="map-wrapper">
+                <div style="display:flex; flex-direction:column; justify-content:center; align-items:center; background:#edf2f7; padding:30px 20px; text-align:center; border-radius:8px;">
+                    <i class="fa-solid fa-map-location-dot"style="font-size:3rem; color:#03cf5d; margin-bottom:15px;"></i>
+                    <div style="font-weight:bold; font-size:1.2rem; margin-bottom:8px;">[네이버 지도] 하수구 긴급 출동 위치 확인</div>
+                    <p style="font-size:0.95rem; color:#4a5568; margin-bottom:20px;">하수구 관할 담당 기사가 30분 이내 도착할 수 있도록 최단 거리로 출동합니다.</p>
+                    <a href="https://map.naver.com/v5/search/%ED%95%98%EC%8A%B5%EA%B5%AC%EB%A7%89%ED%9E%98"target="_blank"rel="noopener noreferrer"style="background:#03cf5d; color:white; font-weight:bold; padding:12px 24px; border-radius:50px; text-decoration:none;">
+                        네이버 지도로 하수구 출동 경로 확인하기
+                    </a>
+                </div>
+            </div>
+        </section>
+     
+        <!-- 실시간 문자 접수 폼 -->
+        <section class="card">
+            <h2><i class="fa-solid fa-paper-plane"></i> 30초 간편 실시간 출동 및 문자 접수</h2>
+            <form id="quickSmsForm"onsubmit="sendSmsMessage(event)">
+                <div class="sms-form-group">
+                    <label for="cusName">성함 또는 현장명<span>*</span></label>
+                    <input type="text"id="cusName"class="sms-input"required placeholder="예: 홍길동 / 빌라">
+                </div>
+                <div class="sms-form-group">
+                    <label for="cusPhone">연락처<span>*</span></label>
+                    <input type="tel"id="cusPhone"class="sms-input"required placeholder="예: 010-1234-5678">
+                </div>
+                <div class="sms-form-group">
+                    <label for="cusAddress">출동 주소(현장 위치)<span>*</span></label>
+                    <input type="text"id="cusAddress"class="sms-input"required placeholder="예: 역삼동 상세주소">
+                </div>
+                <div class="sms-form-group">
+                    <label for="cusContent">막힘 증상<span>*</span></label>
+                    <textarea id="cusContent"class="sms-textarea"required placeholder="예: 싱크대 역류"></textarea>
+                </div>
+                <div class="privacy-box">
+                    <input type="checkbox"id="privacyAgree"required>
+                    <label for="privacyAgree">(필수) 개인정보 수집 및 이용 동의</label>
+                </div>
+                <button type="submit"class="btn-submit-sms"><i class="fa-solid fa-comment-sms"></i> 출동 문자 신청하기</button>
+            </form>
+        </section>
+        
+    </main>
+     
+    <div class="sticky-phone-bar">
+        <div>하수구 뻥뚫어 마스터 : <b>010-5785-7001</b></div>
+        <div class="sticky-btn-group">
+            <a href="tel:010-5785-7001"class="sticky-call">전화 연결</a>
+        </div>
+    </div>
+     
+    <footer>
+        <p>© 2026 하수구 배수구 싱크대 막힘 해결 마스터 Center. All Rights Reserved.</p>
+    </footer>
+     
+    <script>
+        function sendSmsMessage(event) {
+            event.preventDefault();
+            const name = document.getElementById('cusName').value.trim();
+            const phone = document.getElementById('cusPhone').value.trim();
+            const address = document.getElementById('cusAddress').value.trim();
+            const content = document.getElementById('cusContent').value.trim();
+            
+            const targetNumber = "01057857001";
+            const smsBody = `[출동신청]\n이름: ${name}\n연락처: ${phone}\n주소: ${address}\n내용: ${content}`;
+            const encodedBody = encodeURIComponent(smsBody);
+            
+            window.location.href = `sms:${targetNumber}?body=${encodedBody}`;
+        }
+    </script>
+</body>
+</html>
+
+
+
+        .sticky-kakao { background-color: #fee500; color: #191919; }
+        
+        footer { text-align: center; padding: 40px 20px; color: #718096; font-size: 0.95rem; background-color: #fff; border-top: 1px solid #edf2f7; }
+    </style>
+</head>
+<body>
+    
+    <header>
+        <div class="badge"><i class="fa-solid fa-bolt"></i> 24시 긴급 출동 야간·새벽 대기</div>
+        <h1>하수구 배관 막힘 뻥 뚫는 업체</h1>
+        <p>꽉 막힌 하수도, 배수구 역류, 싱크대 뚫음 완벽 마스터</p>
+    </header>
+    
+    <main class="container">
+        
+        <div class="top-guide-banner">
+            <img src="https://images.unsplash.com/photo-1504307651254-35680f356dfd?auto=format&fit=crop&w=1000&q=80"alt="설비 마스터 작업 전경"class="bg-img">
+            <div class="content-inner">
+                <div class="banner-title-box">
+                    <h3>배관 설비 기술 마스터 센터</h3>
+                    <p>못 뚫으면 0원! 정직한 양심 정찰제 시공</p>
+                </div>
+                <div class="work-tags-container">
+                    <div class="work-tag-row">
+                        <i class="fa-solid fa-soap"></i>
+                        <div class="tag-text">
+                            <strong>하수구 막힘 뚫음</strong>
+                            <span>싱크대 역류 · 화장실 배수구 · 유지방 스케일링</span>
+                        </div>
+                    </div>
+                    <div class="work-tag-row">
+                        <i class="fa-solid fa-droplet-slash"></i>
+                        <div class="tag-text">
+                            <strong>첨단 정밀 누수탐지</strong>
+                            <span>미세 누수 진단 · 첨단 청음 탐지 · 배관 교체 공사</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="banner-footer-box">
+                    <a href="tel:01057857001"class="emergency-badge">
+                        <i class="fa-solid fa-phone-volume"></i> 24시 긴급 출동 즉시 연결
+                    </a>
+                </div>
+            </div>
+        </div>
+     
+        <article class="card">
+            <h2><i class="fa-solid fa-screwdriver-wrench"></i> 하수구 배수구 싱크대 막힘 원인과 확실한 해결책</h2>
+            <div class="description-text">
+                <p>안녕하세요! <b>하수구</b> 관련하여 발생하는 골치 아픈 배관 트러블을 속 시원하게 해결해 드리는 **하수구 배관 막힘 뻥 뚫는 업체** ‘뻥뚫어 마스터’입니다. 싱크대 역류나 화장실 배수구 물 넘침은 누수로 이어지기 쉬워 빠른 대처가 필수적입니다.</p>
+                <p>하수구 현장에서 가장 빈번히 경험하시는 싱크대 막힘의 주원인은 유지방 슬러지입니다. 주방 배수구를 통해 내려간 기름 성분들이 배관 내부에서 응고되면서 딱딱한 기름 덩어리를 생성하게 되고, 음식물 찌꺼기가 결착되면서 통수를 가로막게 됩니다.</p>
+                
+                <div class="info-feature-box">
+                    <ul>
+                        <li><i class="fa-solid fa-check"></i> 하수도 메인관 고압세척</li>
+                        <li><i class="fa-solid fa-check"></i> 배수구 역류 청소</li>
+                        <li><i class="fa-solid fa-check"></i> 싱크대 유지방 스케일링</li>
+                        <li><i class="fa-solid fa-check"></i> 24시 긴급 야간 출동</li>
+                    </ul>
+                </div>
+    
+                <p>저희 **하수구 배관 막힘 뻥 뚫는 업체**는 초고화질 배관 내시경 카메라를 진입시켜 원인 구간을 정밀하게 탐지합니다. 초강력 플렉스 샤프트 및 하수도 고압세척 공법을 적용하여 문제를 근본적으로 해결합니다.</p>
+            </div>
+        </article>
+
+        <!-- 📸 [요청하신 이미지를 녹여 만든 실제 작업 현장 모듈 섹션] -->
+        <section class="card">
+            <h2><i class="fa-solid fa-camera-retro"></i> 전문 장비 기반 현장 통수 작업 갤러리</h2>
+            <div class="gallery-grid">
+                <div class="gallery-item">
+                    <img src="https://images.unsplash.com/photo-1585704032915-c3400ca199e7?auto=format&fit=crop&w=600&q=80"alt="막힌 하수구 완벽 해결">
+                    <div class="gallery-caption">
+                        <h4>막힌 하수구 완벽 해결!</h4>
+                        <p>010-5785-7001</p>
+                    </div>
+                </div>
+                <div class="gallery-item">
+                    <img src="https://images.unsplash.com/photo-1621905251189-08b45d6a269e?auto=format&fit=crop&w=600&q=80"alt="하수구 막힘 설비 전문">
+                    <div class="gallery-caption">
+                        <h4>하수구 막힘 설비 전문</h4>
+                        <p>010-5785-7001</p>
+                    </div>
+                </div>
+                <div class="gallery-item">
+                    <img src="https://images.unsplash.com/photo-1504307651254-35680f356dfd?auto=format&fit=crop&w=600&q=80"alt="내시경 카메라 검사">
+                    <div class="gallery-caption">
+                        <h4>내시경 카메라 검사</h4>
+                        <p>010-5785-7001</p>
+                    </div>
+                </div>
+                <div class="gallery-item">
+                    <img src="https://images.unsplash.com/photo-1542013936693-884638332954?auto=format&fit=crop&w=600&q=80"alt="강력 고압 세척 서비스">
+                    <div class="gallery-caption">
+                        <h4>강력 고압 세척 서비스</h4>
+                        <p>010-5785-7001</p>
+                    </div>
+                </div>
+                <div class="gallery-item">
+                    <img src="https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80"alt="확실한 문제 해결 완료">
+                    <div class="gallery-caption">
+                        <h4>확실한 문제 해결 완료!</h4>
+                        <p>010-5785-7001</p>
+                    </div>
+                </div>
+                <div class="gallery-item">
+                    <img src="https://images.unsplash.com/photo-1517646287270-a5a9ca602e5c?auto=format&fit=crop&w=600&q=80"alt="24시간 출동 하수구 막힘 문의">
+                    <div class="gallery-caption">
+                        <h4>24시간 출동! 하수구 막힘 문의</h4>
+                        <p>010-5785-7001</p>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="hashtag-container">
+                <span>#하수구배관막힘</span><span>#하수구막힘</span><span>#하수구배수구뚫음</span><span>#하수구싱크대막힘</span><span>#하수구24시출동</span>
+            </div>
+        </section>
+     
+        <!-- 네이버 지도 섹션 (정적 링크 연결) -->
+        <section class="card">
+            <h2><i class="fa-solid fa-map-location-dot"></i> 24시 하수구 네이버 지도 출동 서비스</h2>
+            <div class="map-wrapper">
+                <div style="display:flex; flex-direction:column; justify-content:center; align-items:center; background:#edf2f7; padding:30px 20px; text-align:center; border-radius:8px;">
+                    <i class="fa-solid fa-map-location-dot"style="font-size:3rem; color:#03cf5d; margin-bottom:15px;"></i>
+                    <div style="font-weight:bold; font-size:1.2rem; margin-bottom:8px;">[네이버 지도] 하수구 긴급 출동 위치 확인</div>
+                    <p style="font-size:0.95rem; color:#4a5568; margin-bottom:20px;">하수구 관할 담당 기사가 30분 이내 도착할 수 있도록 최단 거리로 출동합니다.</p>
+                    <a href="https://map.naver.com/v5/search/%ED%95%98%EC%8A%B5%EA%B5%AC%EB%A7%89%ED%9E%98"target="_blank"rel="noopener noreferrer"style="background:#03cf5d; color:white; font-weight:bold; padding:12px 24px; border-radius:50px; text-decoration:none;">
+                        네이버 지도로 하수구 출동 경로 확인하기
+                    </a>
+                </div>
+            </div>
+        </section>
+     
+        <!-- 실시간 문자 접수 폼 -->
+        <section class="card">
+            <h2><i class="fa-solid fa-paper-plane"></i> 30초 간편 실시간 출동 및 문자 접수</h2>
+            <form id="quickSmsForm"onsubmit="sendSmsMessage(event)">
+                <div class="sms-form-group">
+                    <label for="cusName">성함 또는 현장명<span>*</span></label>
+                    <input type="text"id="cusName"class="sms-input"required placeholder="예: 홍길동 / 빌라">
+                </div>
+                <div class="sms-form-group">
+                    <label for="cusPhone">연락처<span>*</span></label>
+                    <input type="tel"id="cusPhone"class="sms-input"required placeholder="예: 010-1234-5678">
+                </div>
+                <div class="sms-form-group">
+                    <label for="cusAddress">출동 주소(현장 위치)<span>*</span></label>
+                    <input type="text"id="cusAddress"class="sms-input"required placeholder="예: 역삼동 상세주소">
+                </div>
+                <div class="sms-form-group">
+                    <label for="cusContent">막힘 증상<span>*</span></label>
+                    <textarea id="cusContent"class="sms-textarea"required placeholder="예: 싱크대 역류"></textarea>
+                </div>
+                <div class="privacy-box">
+                    <input type="checkbox"id="privacyAgree"required>
+                    <label for="privacyAgree">(필수) 개인정보 수집 및 이용 동의</label>
+                </div>
+                <button type="submit"class="btn-submit-sms"><i class="fa-solid fa-comment-sms"></i> 출동 문자 신청하기</button>
+            </form>
+        </section>
+        
+    </main>
+     
+    <div class="sticky-phone-bar">
+        <div>하수구 뻥뚫어 마스터 : <b>010-5785-7001</b></div>
+        <div class="sticky-btn-group">
+            <a href="tel:010-5785-7001"class="sticky-call">전화 연결</a>
+        </div>
+    </div>
+     
+    <footer>
+        <p>© 2026 하수구 배수구 싱크대 막힘 해결 마스터 Center. All Rights Reserved.</p>
+    </footer>
+     
+    <script>
+        function sendSmsMessage(event) {
+            event.preventDefault();
+            const name = document.getElementById('cusName').value.trim();
+            const phone = document.getElementById('cusPhone').value.trim();
+            const address = document.getElementById('cusAddress').value.trim();
+            const content = document.getElementById('cusContent').value.trim();
+            
+            const targetNumber = "01057857001";
+            const smsBody = `[출동신청]\n이름: ${name}\n연락처: ${phone}\n주소: ${address}\n내용: ${content}`;
+            const encodedBody = encodeURIComponent(smsBody);
+            
+            window.location.href = `sms:${targetNumber}?body=${encodedBody}`;
+        }
+    </script>
+</body>
+</html>
+
